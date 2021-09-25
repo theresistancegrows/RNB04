@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 24a51361cb1793346b768dc62c4e4999
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - energyCellObject: {instanceID: 0}
+  - brain01: {instanceID: 0}
+  - brain02: {instanceID: 0}
+  - brain03: {instanceID: 0}
+  - brain04: {instanceID: 0}
+  - brain05: {instanceID: 0}
+  - brain06: {instanceID: 0}
+  - brain07: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
